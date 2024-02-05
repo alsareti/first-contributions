@@ -2043,6 +2043,7 @@ LadegbayeStella)
 -[Priyanjith N] (https://github.com/Priyanjith-N)
 - [Purple Wazard]
 - [Den] (https://github.com/den319)
+- [Ahmed AlSareti](https://github.com/alsareti/)
 - [Coding_Dynasty] (https://github.com/coding-dynasty)
 - [Raphaël Grougnet](https://github.com/raphaelgrougnet)
 - [Muhammad Helmi](https://github.com/helmisafie)
